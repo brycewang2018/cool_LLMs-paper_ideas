@@ -24,3 +24,11 @@
 - Kim, A., Muhn, M., & Nikolaev, V. V. (2024). Bloated disclosures: can ChatGPT help investors process information?. Chicago Booth Research Paper, (23-07), 2023-59.
 - arXive: https://arxiv.org/abs/2306.10224
 - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4425527
+
+## Paper #5 (2024.9.1, aXive working paper) The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/28d640d3-4e04-4836-8acb-4d5deef01cbb">
+
+- Lu, C., Lu, C., Lange, R. T., Foerster, J., Clune, J., & Ha, D. (2024). The ai scientist: Towards fully automated open-ended scientific discovery. arXiv preprint arXiv:2408.06292.
+- arXive: https://arxiv.org/abs/2408.06292
+- GitHub: https://github.com/SakanaAI/AI-Scientist
+  
