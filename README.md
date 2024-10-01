@@ -20,7 +20,7 @@
 - arXive: https://arxiv.org/abs/2407.17866
 - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311
 
-## Paper #4: (2024.8.28) Bloated Disclosures: Can ChatGPT Help Investors  🌟Process Information? 🌟
+## Paper #4: (2024.8.28， SSRN working paper) Bloated Disclosures: Can ChatGPT Help Investors  🌟Process Information? 🌟
 - Kim, A., Muhn, M., & Nikolaev, V. V. (2024). Bloated disclosures: can ChatGPT help investors process information?. Chicago Booth Research Paper, (23-07), 2023-59.
 - arXive: https://arxiv.org/abs/2306.10224
 - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4425527
