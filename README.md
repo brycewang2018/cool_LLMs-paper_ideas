@@ -4,7 +4,7 @@
 - Perfect for anyone looking to dive into innovative research with a light touch. Let’s keep it simple, sharp, and super inspiring!
 
 
-## Paper #1: (2023.12.18, Nature Computational Science) Introducing Life2Vec - Using sequences of life-events to &#x1F31Fpredict human lives&#x1F31F
+## Paper #1: (2023.12.18, Nature Computational Science) Introducing Life2Vec - Using sequences of life-events to & #x1F31F predict human lives& #x1F31F
 - Savcisens, G., Eliassi-Rad, T., Hansen, L. K., Mortensen, L. H., Lilleholt, L., Rogers, A., ... & Lehmann, S. (2024). Using sequences of life-events to predict human lives. Nature Computational Science, 4(1), 43-56.
 - PDF & publish: https://www.nature.com/articles/s43588-023-00573-5
 - Website: https://life2vecai.com/
