@@ -34,7 +34,82 @@
 - Kim, A., Muhn, M., & Nikolaev, V. (2023). From transcripts to insights: Uncovering corporate risks using generative ai. arXiv preprint arXiv:2310.17721.
 - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4593660
 - arXive: https://arxiv.org/abs/2310.17721
-  
+
+
+# Academic Writing
+## Writing Skills and Paid Proofreading Service
+- https://cn.scientific-publishing.webshop.elsevier.com/
+
+# AI Conferences 
+## NeurIPS (Conference on Neural Information Processing Systems)
+- Submission Deadline: May 2024 (exact date TBD)
+- Focus: Machine Learning, Deep Learning, Artificial Intelligence
+
+## ICLR (International Conference on Learning Representations)
+- Submission Deadline: October 2024 (exact date TBD)
+- Focus: Representation Learning, Deep Learning, Machine Learning
+
+## ACL (Annual Meeting of the Association for Computational Linguistics)
+- Submission Deadline: Around February 2024 (exact date TBD)
+- Focus: Natural Language Processing, Large Language Models, Language Understanding
+
+## EMNLP (Conference on Empirical Methods in Natural Language Processing)
+- Submission Deadline: Around May 2024 (exact date TBD)
+- Focus: Natural Language Processing, Large Language Models, Generative Models
+
+## COLING (International Conference on Computational Linguistics)
+- Submission Deadline: Around March 2024 (exact date TBD)
+- Focus: Natural Language Processing, Language Modeling, Computational Linguistics
+
+## AAAI (Association for the Advancement of Artificial Intelligence)
+- Submission Deadline: Around September 2024 (exact date TBD)
+- Focus: Artificial Intelligence, Machine Learning
+
+## EACL (European Chapter of the Association for Computational Linguistics)
+- Submission Deadline: Around June 2024 (exact date TBD)
+- Focus: Natural Language Processing, Language Models
+
+## NAACL (North American Chapter of the Association for Computational Linguistics)
+- Submission Deadline: Around December 2024 (exact date TBD)
+- Focus: Natural Language Processing, NLP
+
+## CVPR (Conference on Computer Vision and Pattern Recognition)
+- Submission Deadline: Around November 2024 (exact date TBD)
+- Focus: Computer Vision, Deep Learning
+
+## ICML (International Conference on Machine Learning)
+- Submission Deadline: Around February 2024 (exact date TBD)
+- Focus: Machine Learning, Deep Learning
+
+## AISTATS (International Conference on Artificial Intelligence and Statistics)
+- Submission Deadline: Around October 2024 (exact date TBD)
+- Focus: Statistical Learning, Machine Learning, AI
+
+## CoNLL (Conference on Computational Natural Language Learning)
+- Submission Deadline: Around April 2024 (exact date TBD)
+- Focus: Natural Language Processing, Deep Learning
+
+## ICASSP (International Conference on Acoustics, Speech, and Signal Processing)
+- Submission Deadline: Around October 2024 (exact date TBD)
+- Focus: Speech Recognition, Signal Processing
+
+## ICRA (International Conference on Robotics and Automation)
+- Submission Deadline: Around September 2024 (exact date TBD)
+- Focus: Robotics, AI, Automation
+- 
+## IJCAI (International Joint Conference on Artificial Intelligence)
+- Submission Deadline: Around January 2024 (exact date TBD)
+- Focus: Artificial Intelligence, Machine Learning, Automated Reasoning
+
+## KDD (Knowledge Discovery and Data Mining)
+- Submission Deadline: Around March 2024 (exact date TBD)
+- Focus: Data Mining, Machine Learning, Artificial Intelligence
+
+# Journal (AI and Social Science) 
+- Scientific Reports (NLP)
+- Computers and Security
+- Asian Journal of Social Science
+- Frontiers in Public Health
 
 
   
