@@ -29,7 +29,7 @@
 - arXive: https://arxiv.org/abs/2306.10224
 - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4425527
 
-## (2024.4.24) From Transcripts to Insights:  🚀Uncovering Corporate Risks Using Generative AI 🚀
+## (2024.7.1) From Transcripts to Insights:  🚀Uncovering Corporate Risks Using Generative AI 🚀
 - [2024 FMA Asia-Pacific Conference Best Paper Award in Corporate Finance](https://www.fma.org/conference-awards#asia)
 - Kim, A., Muhn, M., & Nikolaev, V. (2023). From transcripts to insights: Uncovering corporate risks using generative ai. arXiv preprint arXiv:2310.17721.
 - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4593660
