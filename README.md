@@ -35,6 +35,14 @@
 - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4593660
 - arXive: https://arxiv.org/abs/2310.17721
 
+## (2023.7.27, Nature) Large Language Models Encode Clinical Knowledge
+- Large language models encode clinical knowledge: https://www.nature.com/articles/s41586-023-06291-2
+- Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., ... & Natarajan, V. (2023). Large language models encode clinical knowledge. Nature, 620(7972), 172-180.
+- This paper introduces the MultiMedQA benchmark to evaluate the performance of large language models in medical question answering. By introducing the new dataset HealthSearchQA and a human evaluation framework, the study shows that Flan-PaLM achieved leading accuracy across multiple datasets but highlights gaps in areas like comprehension and reasoning. It also proposes the instruction prompt tuning method to improve model performance in the medical domain.
+
+
+
+
 
 # Academic Writing
 ## Writing Skills and Paid Proofreading Service
