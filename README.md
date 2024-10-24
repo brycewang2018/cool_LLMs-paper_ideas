@@ -40,7 +40,10 @@
 - Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., ... & Natarajan, V. (2023). Large language models encode clinical knowledge. Nature, 620(7972), 172-180.
 - This paper introduces the MultiMedQA benchmark to evaluate the performance of large language models in medical question answering. By introducing the new dataset HealthSearchQA and a human evaluation framework, the study shows that Flan-PaLM achieved leading accuracy across multiple datasets but highlights gaps in areas like comprehension and reasoning. It also proposes the instruction prompt tuning method to improve model performance in the medical domain.
 
-
+## (2024.6.26, PETRA'24) Stock Price Trend Prediction using Emotion Analysis of Financial Headlines with Distilled LLM Model
+- https://dl.acm.org/doi/10.1145/3652037.3652076
+- Bhat, R., & Jain, B. (2024, June). Stock Price Trend Prediction using Emotion Analysis of Financial Headlines with Distilled LLM Model. In Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments (pp. 67-73).
+- This study uses Distilled LLMs to analyze the emotional tone of financial news headlines instead of scraping the financial data. The LLMs extract emotion-based attributes, which are then used with machine learning algorithms to predict stock price direction.
 
 
 
