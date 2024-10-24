@@ -51,6 +51,9 @@
 ## Writing Skills and Paid Proofreading Service
 - https://cn.scientific-publishing.webshop.elsevier.com/
 
+## Science Writing for Non-native Engish Speakers
+- https://link.springer.com/chapter/10.1007/978-3-031-72260-8_11
+
 # AI Conferences 
 ## NeurIPS (Conference on Neural Information Processing Systems)
 - Submission Deadline: May 2024 (exact date TBD)
@@ -122,5 +125,7 @@
 - Asian Journal of Social Science
 - Frontiers in Public Health
 
-
+# Cool Books
+## 1. https://github.com/rasbt/LLMs-from-scratch
+## 
   
