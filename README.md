@@ -45,6 +45,12 @@
 - Bhat, R., & Jain, B. (2024, June). Stock Price Trend Prediction using Emotion Analysis of Financial Headlines with Distilled LLM Model. In Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments (pp. 67-73).
 - This study uses Distilled LLMs to analyze the emotional tone of financial news headlines instead of scraping the financial data. The LLMs extract emotion-based attributes, which are then used with machine learning algorithms to predict stock price direction.
 
+## (2024.7) Macroeconomic Forecasting with Large Language Models
+- https://arxiv.org/abs/2407.00890
+- Carriero, A., Pettenuzzo, D., & Shekhar, S. (2024). Macroeconomic Forecasting with Large Language Models. arXiv preprint arXiv:2407.00890.
+- This paper presents a comparative analysis evaluating the accuracy of Large Language Models (LLMs) against traditional macro time series forecasting approaches.
+
+
 
 
 # Academic Writing
