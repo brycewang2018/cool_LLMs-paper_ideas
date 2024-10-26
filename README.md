@@ -133,5 +133,5 @@
 
 # Cool Books
 ## 1. https://github.com/rasbt/LLMs-from-scratch
-## 
+## 2. github Developing Apps with GPT-4 and ChatGPT: Build Intelligent Chatbots, Content Generators, and More, [GitHub](https://github.com/malywut/gpt_examples?tab=readme-ov-file) 
   
