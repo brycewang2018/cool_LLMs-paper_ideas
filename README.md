@@ -52,9 +52,7 @@
 
 ## (2023.12) Generative AI for Economic Research: Use Cases and Implications for Economists
 - https://www.aeaweb.org/articles?id=10.1257/jel.20231736
-  
-
-
+----
 
 
 # Academic Writing
@@ -63,6 +61,13 @@
 
 ## Science Writing for Non-native Engish Speakers
 - https://link.springer.com/chapter/10.1007/978-3-031-72260-8_11
+
+## (2024.3.1) Ten simple rules to leverage large language models for getting grants
+- [doi](https://doi.org/10.1371/journal.pcbi.1011863)
+- [AI for Grant Writing GitHub] (https://github.com/eseckel/ai-for-grant-writing?tab=readme-ov-file)
+- A curated list of resources for using AI to develop more competitive grant applications.
+----
+
 
 # AI Conferences 
 ## NeurIPS (Conference on Neural Information Processing Systems)
