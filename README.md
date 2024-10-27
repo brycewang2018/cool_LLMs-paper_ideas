@@ -50,6 +50,10 @@
 - Carriero, A., Pettenuzzo, D., & Shekhar, S. (2024). Macroeconomic Forecasting with Large Language Models. arXiv preprint arXiv:2407.00890.
 - This paper presents a comparative analysis evaluating the accuracy of Large Language Models (LLMs) against traditional macro time series forecasting approaches.
 
+## (2023.12) Generative AI for Economic Research: Use Cases and Implications for Economists
+- https://www.aeaweb.org/articles?id=10.1257/jel.20231736
+  
+
 
 
 
