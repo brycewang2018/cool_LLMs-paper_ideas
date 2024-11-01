@@ -66,6 +66,22 @@
 - [doi](https://doi.org/10.1371/journal.pcbi.1011863)
 - [AI for Grant Writing GitHub] (https://github.com/eseckel/ai-for-grant-writing?tab=readme-ov-file)
 - A curated list of resources for using AI to develop more competitive grant applications.
+
+## (AAAI 2023) Estimating Geographic Spillover Effects of COVID-19 Policies: From Large-Scale Mobility Networks
+- Chang, S., Vrabac, D., Leskovec, J., & Ugander, J. (2023, June). Estimating geographic spillover effects of COVID-19 policies from large-scale mobility networks. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 12, pp. 14161-14169).
+- https://ojs.aaai.org/index.php/AAAI/article/view/26657
+- DOI: https://doi.org/10.1609/aaai.v37i12.26657
+- This paper investigates the spillover effects of county-level mobility restrictions in California's COVID-19 policy, showing that local restrictions are only 54% as effective as statewide restrictions in reducing mobility. Using a regression discontinuity design, the study leverages mobility data to reveal significant cross-county movement, especially in sectors like retail and dining. The authors propose an optimized "macro-county" policy approach that achieves over 90% of the effectiveness of statewide restrictions by grouping counties to mitigate spillovers.
+
+## LLMs generate structurally realistic social networks but overestimate political homophily
+- Chang, S., Chaszczewicz, A., Wang, E., Josifovska, M., Pierson, E., & Leskovec, J. (2024). LLMs generate structurally realistic social networks but overestimate political homophily. arXiv preprint arXiv:2408.16629.
+- https://arxiv.org/abs/2408.16629
+- This paper evaluates **LLM-generated social networks**, finding that "local" generation methods produce more realistic networks that align well with real-world characteristics like density and clustering. However, LLMs overestimate political homophily, placing more emphasis on political alignment than seen in actual social networks.
+
+## Detecting Gang-Involved Escalation on Social Media Using Context
+- Chang, S., Zhong, R., Adams, E., Lee, F. T., Varia, S., Patton, D., ... & McKeown, K. (2018). Detecting gang-involved escalation on social media using context. arXiv preprint arXiv:1809.03632.
+- https://aclanthology.org/D18-1005/
+- This paper presents a system for detecting expressions of aggression and loss in social media posts by gang-involved youth, using domain-specific resources and contextual representations of users’ recent tweets and interactions. By incorporating context into a CNN model, the system achieves significantly improved accuracy in identifying potential risks of real-world violence.
 ----
 
 
