@@ -164,9 +164,17 @@
 ## 3. [AutoScraper](https://github.com/EZ-hwh/AutoScraper/tree/main)
 ## 4. [AgentCrawler](https://github.com/eavae/feilian/tree/main)
 
-
+----
 
 # Cool Books
 ## 1. [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 ## 2. Developing Apps with GPT-4 and ChatGPT: Build Intelligent Chatbots, Content Generators, and More, [GitHub](https://github.com/malywut/gpt_examples?tab=readme-ov-file) 
+----
+# Cool Scholars
+![Serina Chang, UC Berkeley](https://serinachang5.github.io/assets/images/serina_bw.jpeg)
+## 1. Serina Chang, https://serinachang5.github.io/
+
+![Kim, UChicago](https://lh3.googleusercontent.com/dE_K4iLJH_njJLUIjZBVoUPBAFY6ygIB00I2iE4ELMnJ16epUZepQ7ePJbrcGRYFkJ8gTPfDl6bkuiK6LN6GcvUlFH25WhN898GHIECv-m3WCR0UA1TQVvMT6FCJJgL-zQ=w1280)
+## 2. Alex Kim, https://www.alexacct.com/about-me
+----
   
