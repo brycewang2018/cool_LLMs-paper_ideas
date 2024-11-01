@@ -82,6 +82,7 @@
 - Chang, S., Zhong, R., Adams, E., Lee, F. T., Varia, S., Patton, D., ... & McKeown, K. (2018). Detecting gang-involved escalation on social media using context. arXiv preprint arXiv:1809.03632.
 - https://aclanthology.org/D18-1005/
 - This paper presents a system for detecting expressions of aggression and loss in social media posts by gang-involved youth, using domain-specific resources and contextual representations of users’ recent tweets and interactions. By incorporating context into a CNN model, the system achieves significantly improved accuracy in identifying potential risks of real-world violence.
+- GitHub: https://github.com/serinachang5/contextifier
 ----
 
 
@@ -156,7 +157,16 @@
 - Asian Journal of Social Science
 - Frontiers in Public Health
 
+----
+# GitHub Repos 
+## 1. UNET, [UNET-ZOO](https://github.com/Andy-zhujunwen/UNET-ZOO); [UNetPlusPlus](https://github.com/MrGiovanni/UNetPlusPlus)
+## 2. [Contextifier](https://github.com/serinachang5/contextifier)
+## 3. [AutoScraper](https://github.com/EZ-hwh/AutoScraper/tree/main)
+## 4. [AgentCrawler](https://github.com/eavae/feilian/tree/main)
+
+
+
 # Cool Books
-## 1. https://github.com/rasbt/LLMs-from-scratch
-## 2. github Developing Apps with GPT-4 and ChatGPT: Build Intelligent Chatbots, Content Generators, and More, [GitHub](https://github.com/malywut/gpt_examples?tab=readme-ov-file) 
+## 1. [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+## 2. Developing Apps with GPT-4 and ChatGPT: Build Intelligent Chatbots, Content Generators, and More, [GitHub](https://github.com/malywut/gpt_examples?tab=readme-ov-file) 
   
