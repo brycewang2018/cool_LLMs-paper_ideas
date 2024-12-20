@@ -57,6 +57,7 @@
 ## Large Language Models on Tabular Data- A Survey
 - https://arxiv.org/html/2402.17944v1
 - Fang, X., Xu, W., Anting Tan, F., Zhang, J., Hu, Z., Qi, Y., ... & Faloutsos, C. (2024). Large language models on tabular data--a survey. arXiv e-prints, arXiv-2402.
+- Related paper 1: Large Language Models versus Classical Machine Learning: Performance in COVID-19 Mortality Prediction Using High-Dimensional Tabular Data
 
 ----
 # Academic Writing
