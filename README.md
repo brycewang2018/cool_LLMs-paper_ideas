@@ -53,8 +53,12 @@
 ## (2023.12) Generative AI for Economic Research: Use Cases and Implications for Economists
 - https://www.aeaweb.org/articles?id=10.1257/jel.20231736
 ----
+# Cool LLMs Survey
+## Large Language Models on Tabular Data- A Survey
+- https://arxiv.org/html/2402.17944v1
+- Fang, X., Xu, W., Anting Tan, F., Zhang, J., Hu, Z., Qi, Y., ... & Faloutsos, C. (2024). Large language models on tabular data--a survey. arXiv e-prints, arXiv-2402.
 
-
+----
 # Academic Writing
 ## Writing Skills and Paid Proofreading Service
 - https://cn.scientific-publishing.webshop.elsevier.com/
