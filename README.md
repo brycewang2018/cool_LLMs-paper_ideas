@@ -57,6 +57,8 @@
 - https://arxiv.org/abs/2411.00640
 - Miller, E. (2024). Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations. arXiv preprint arXiv:2411.00640.
 - This article addresses the gap in the evaluation of LLMs by incorporating principles from **experimental science and statistical analysis**. It guides researchers trained in statistics on how to analyze data from LLM **evaluations**, measure differences between models, and effectively plan evaluation experiments. The authors recommend specific strategies for conducting and reporting evaluations to reduce statistical noise and enhance the informativeness of the results.
+- ![Uploading image.png…]()
+
 ----
 # (2024.2) Cool LLMs Survey
 ## Large Language Models on Tabular Data- A Survey
