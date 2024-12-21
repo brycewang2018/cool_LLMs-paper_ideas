@@ -52,12 +52,19 @@
 
 ## (2023.12) Generative AI for Economic Research: Use Cases and Implications for Economists
 - https://www.aeaweb.org/articles?id=10.1257/jel.20231736
+
+## (2024.11) Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations
+- https://arxiv.org/abs/2411.00640
+- Miller, E. (2024). Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations. arXiv preprint arXiv:2411.00640.
+- This article addresses the gap in the evaluation of LLMs by incorporating principles from **experimental science and statistical analysis**. It guides researchers trained in statistics on how to analyze data from LLM **evaluations**, measure differences between models, and effectively plan evaluation experiments. The authors recommend specific strategies for conducting and reporting evaluations to reduce statistical noise and enhance the informativeness of the results.
 ----
-# Cool LLMs Survey
+# (2024.2) Cool LLMs Survey
 ## Large Language Models on Tabular Data- A Survey
 - https://arxiv.org/html/2402.17944v1
 - Fang, X., Xu, W., Anting Tan, F., Zhang, J., Hu, Z., Qi, Y., ... & Faloutsos, C. (2024). Large language models on tabular data--a survey. arXiv e-prints, arXiv-2402.
 - Related paper 1: Large Language Models versus Classical Machine Learning: Performance in COVID-19 Mortality Prediction Using High-Dimensional Tabular Data
+
+
 
 ----
 # Academic Writing
