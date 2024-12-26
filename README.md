@@ -24,9 +24,14 @@
 - Lu, C., Lu, C., Lange, R. T., Foerster, J., Clune, J., & Ha, D. (2024). The ai scientist: Towards fully automated open-ended scientific discovery. arXiv preprint arXiv:2408.06292.
 - arXive: https://arxiv.org/abs/2408.06292
 - GitHub: https://github.com/SakanaAI/AI-Scientist
+
+
+
+  
 ---
-# LLMs and Finance @ Alex Kim
+# LLMs and Finance @ Alex Kim: https://www.alexacct.com/ 
 ## （2024.11）Context-Based Interpretation of Financial Information
+- Kim, A. G., & Nikolaev, V. V. (2024). Context‐Based Interpretation of Financial Information. Journal of Accounting Research.
 - This study examines how narrative context in financial statements enhances the informativeness of numerical data. Utilizing deep learning techniques, the authors demonstrate that integrating narrative disclosures with numerical figures significantly improves predictions about a firm's future performance, especially when numerical data alone is less reliable.
 - December 2024. "Financial Statement Analysis with Large Language Models" received the Blackrock Best Research Paper Award.
 - December 2024. [New Paper] "Learning Fundamentals from Text" is now available on SSRN.
@@ -66,12 +71,25 @@
 - https://arxiv.org/abs/2411.00640
 - Miller, E. (2024). Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations. arXiv preprint arXiv:2411.00640.
 - This article addresses the gap in the evaluation of LLMs by incorporating principles from **experimental science and statistical analysis**. It guides researchers trained in statistics on how to analyze data from LLM **evaluations**, measure differences between models, and effectively plan evaluation experiments. The authors recommend specific strategies for conducting and reporting evaluations to reduce statistical noise and enhance the informativeness of the results.
+
+
+
+
+
+
 ---
 # LLMs and Medical Care
 ## (2023.7.27, Nature) Large Language Models Encode Clinical Knowledge
 - Large language models encode clinical knowledge: https://www.nature.com/articles/s41586-023-06291-2
 - Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., ... & Natarajan, V. (2023). Large language models encode clinical knowledge. Nature, 620(7972), 172-180.
 - This paper introduces the MultiMedQA benchmark to evaluate the performance of large language models in medical question answering. By introducing the new dataset HealthSearchQA and a human evaluation framework, the study shows that Flan-PaLM achieved leading accuracy across multiple datasets but highlights gaps in areas like comprehension and reasoning. It also proposes the instruction prompt tuning method to improve model performance in the medical domain.
+
+
+
+
+
+
+
 
 ----
 # (2024.2) Cool LLMs Survey
