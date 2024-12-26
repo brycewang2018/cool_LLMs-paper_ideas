@@ -24,6 +24,8 @@
 - Lu, C., Lu, C., Lange, R. T., Foerster, J., Clune, J., & Ha, D. (2024). The ai scientist: Towards fully automated open-ended scientific discovery. arXiv preprint arXiv:2408.06292.
 - arXive: https://arxiv.org/abs/2408.06292
 - GitHub: https://github.com/SakanaAI/AI-Scientist
+---
+# LLMs and Finance
 ## (2024.5.21, SSRN working paper)   🚀Financial Statement Analysis 🚀 with Large Language Models
 - Kim, A., Muhn, M., & Nikolaev, V. (2024). Financial statement analysis with large language models. arXiv preprint arXiv:2407.17866.
 - arXive: https://arxiv.org/abs/2407.17866
@@ -39,7 +41,7 @@
 - Kim, A., Muhn, M., & Nikolaev, V. (2023). From transcripts to insights: Uncovering corporate risks using generative ai. arXiv preprint arXiv:2310.17721.
 - SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4593660
 - arXive: https://arxiv.org/abs/2310.17721
-
+---
 ## (2023.7.27, Nature) Large Language Models Encode Clinical Knowledge
 - Large language models encode clinical knowledge: https://www.nature.com/articles/s41586-023-06291-2
 - Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., ... & Natarajan, V. (2023). Large language models encode clinical knowledge. Nature, 620(7972), 172-180.
