@@ -3,7 +3,12 @@
 - Here you'll find groundbreaking ideas, fresh perspectives, and meaningful work—all without the heavy math or engineering grind.
 - Perfect for anyone looking to dive into innovative research with a light touch. Let’s keep it simple, sharp, and super inspiring!
 
-
+## (2023.1， NIPS) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+- Wei, J., Wang, X., Schuurmans, D., Bosma, M., Xia, F., Chi, E., ... & Zhou, D. (2022). Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 35, 24824-24837.
+- Chain-of-Thought (CoT) prompting has significantly enhanced the reasoning capabilities of large language models (LLMs), enabling them to perform complex tasks by generating intermediate reasoning steps.
+  This approach has led to state-of-the-art performance in various reasoning benchmarks, demonstrating the potential of CoT in advancing LLMs' problem-solving abilities
+- https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html
+  
 ## (2023.12.18, Nature Computational Science) Introducing Life2Vec - Using sequences of life-events to   🚀predict human lives 🚀
 - Savcisens, G., Eliassi-Rad, T., Hansen, L. K., Mortensen, L. H., Lilleholt, L., Rogers, A., ... & Lehmann, S. (2024). Using sequences of life-events to predict human lives. Nature Computational Science, 4(1), 43-56.
 - PDF & publish: https://www.nature.com/articles/s43588-023-00573-5
