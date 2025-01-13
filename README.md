@@ -3,6 +3,26 @@
 - Here you'll find groundbreaking ideas, fresh perspectives, and meaningful work—all without the heavy math or engineering grind.
 - Perfect for anyone looking to dive into innovative research with a light touch. Let’s keep it simple, sharp, and super inspiring!
 
+## (2025.1, Scientifi Report) Evaluating the ability of large language models to emulate personality
+- Wang, Y., Zhao, J., Ones, D. S., He, L., & Xu, X. (2025). Evaluating the ability of large language models to emulate personality. Scientific Reports, 15(1), 519.
+- https://www.nature.com/articles/s41598-024-84109-5
+- This research explores GPT-4's ability to role-play individuals with diverse personality traits, showing strong internal consistency and convergent validity in simulations, though performance declines with increased role complexity. Adding demographic information improved emulated traits' predictive validity, highlighting the potential for LLMs in simulating realistic human behaviors.
+
+## (2025.1, Arxiv) Agent Laboratory: Using LLM Agents as Research Assistants
+- Schmidgall, S., Su, Y., Wang, Z., Sun, X., Wu, J., Yu, X., ... & Barsoum, E. (2025). Agent Laboratory: Using LLM Agents as Research Assistants. arXiv preprint arXiv:2501.04227.
+- https://arxiv.org/abs/2501.04227
+- Agent Laboratory is an autonomous LLM-based framework that streamlines the research process by performing literature review, experimentation, and report writing, producing comprehensive outputs like code repositories and research reports. Evaluations show that it achieves state-of-the-art performance, reduces research costs by 84%, and benefits from human feedback at each stage, significantly improving research quality. This framework aims to shift researchers' focus from routine tasks to creative ideation, accelerating scientific discovery.
+
+## (2024.9.25, Nature) Larger and more instructable language models become less  🚀reliable 🚀
+- Zhou, L., Schellaert, W., Martínez-Plumed, F., Moros-Daval, Y., Ferri, C., & Hernández-Orallo, J. (2024). Larger and more instructable language models become less reliable. Nature, 1-8.
+- PDF & publish: https://www.nature.com/articles/s41586-024-07930-y
+- GitHub: https://github.com/wschella/llm-reliability 
+
+## (2024.9.1, aXive working paper) The  🚀AI Scientist 🚀: Towards Fully Automated Open-Ended Scientific Discovery
+- Lu, C., Lu, C., Lange, R. T., Foerster, J., Clune, J., & Ha, D. (2024). The ai scientist: Towards fully automated open-ended scientific discovery. arXiv preprint arXiv:2408.06292.
+- arXive: https://arxiv.org/abs/2408.06292
+- GitHub: https://github.com/SakanaAI/AI-Scientist
+
 ## (2023.1， NIPS) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 - Wei, J., Wang, X., Schuurmans, D., Bosma, M., Xia, F., Chi, E., ... & Zhou, D. (2022). Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 35, 24824-24837.
 - Chain-of-Thought (CoT) prompting has significantly enhanced the reasoning capabilities of large language models (LLMs), enabling them to perform complex tasks by generating intermediate reasoning steps.
@@ -14,16 +34,6 @@
 - PDF & publish: https://www.nature.com/articles/s43588-023-00573-5
 - Website: https://life2vecai.com/
 - https://github.com/SocialComplexityLab/life2vec
-
-## (2024.9.25, Nature) Larger and more instructable language models become less  🚀reliable 🚀
-- Zhou, L., Schellaert, W., Martínez-Plumed, F., Moros-Daval, Y., Ferri, C., & Hernández-Orallo, J. (2024). Larger and more instructable language models become less reliable. Nature, 1-8.
-- PDF & publish: https://www.nature.com/articles/s41586-024-07930-y
-- GitHub: https://github.com/wschella/llm-reliability 
-
-## (2024.9.1, aXive working paper) The  🚀AI Scientist 🚀: Towards Fully Automated Open-Ended Scientific Discovery
-- Lu, C., Lu, C., Lange, R. T., Foerster, J., Clune, J., & Ha, D. (2024). The ai scientist: Towards fully automated open-ended scientific discovery. arXiv preprint arXiv:2408.06292.
-- arXive: https://arxiv.org/abs/2408.06292
-- GitHub: https://github.com/SakanaAI/AI-Scientist
 
 
 
@@ -71,7 +81,6 @@
 - https://arxiv.org/abs/2411.00640
 - Miller, E. (2024). Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations. arXiv preprint arXiv:2411.00640.
 - This article addresses the gap in the evaluation of LLMs by incorporating principles from **experimental science and statistical analysis**. It guides researchers trained in statistics on how to analyze data from LLM **evaluations**, measure differences between models, and effectively plan evaluation experiments. The authors recommend specific strategies for conducting and reporting evaluations to reduce statistical noise and enhance the informativeness of the results.
-
 
 
 
