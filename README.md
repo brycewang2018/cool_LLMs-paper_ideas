@@ -224,6 +224,8 @@
 # Cool Books
 ## 1. [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 ## 2. Developing Apps with GPT-4 and ChatGPT: Build Intelligent Chatbots, Content Generators, and More, [GitHub](https://github.com/malywut/gpt_examples?tab=readme-ov-file) 
+## 3. Hands-On-Large-Language-Models, [GitHub](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
+## 4. Transformers-for-NLP-2nd-Edition, [GitHub](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition)
 ----
 # Cool Scholars
 [Serina Chang, UC Berkeley](https://serinachang5.github.io/assets/images/serina_bw.jpeg)
