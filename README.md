@@ -87,13 +87,16 @@
 
 
 ---
-# LLMs and Medical Care
+# LLMs and others
 ## (2023.7.27, Nature) Large Language Models Encode Clinical Knowledge
 - Large language models encode clinical knowledge: https://www.nature.com/articles/s41586-023-06291-2
 - Singhal, K., Azizi, S., Tu, T., Mahdavi, S. S., Wei, J., Chung, H. W., ... & Natarajan, V. (2023). Large language models encode clinical knowledge. Nature, 620(7972), 172-180.
 - This paper introduces the MultiMedQA benchmark to evaluate the performance of large language models in medical question answering. By introducing the new dataset HealthSearchQA and a human evaluation framework, the study shows that Flan-PaLM achieved leading accuracy across multiple datasets but highlights gaps in areas like comprehension and reasoning. It also proposes the instruction prompt tuning method to improve model performance in the medical domain.
 
-
+# (2025.1, Arxiv) Decoding-based Regression
+- https://arxiv.org/abs/2501.19383v1
+- Explaination: https://www.marktechpost.com/2025/02/03/google-deepmind-researchers-unlock-the-potential-of-decoding-based-regression-for-tabular-and-density-estimation-tasks/?amp
+- Abstract: Language models have recently been shown capable of performing regression tasks wherein numeric predictions are represented as decoded strings. In this work, we provide theoretical grounds for this capability and furthermore investigate the utility of causal auto-regressive sequence models when they are applied to any feature representation. We find that, despite being trained in the usual way - for next-token prediction via cross-entropy loss - decoding-based regression is as performant as traditional approaches for tabular regression tasks, while being flexible enough to capture arbitrary distributions, such as in the task of density estimation.
 
 
 
