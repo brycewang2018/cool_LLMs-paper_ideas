@@ -3,7 +3,12 @@
 - Here you'll find groundbreaking ideas, fresh perspectives, and meaningful work—all without the heavy math or engineering grind.
 - Perfect for anyone looking to dive into innovative research with a light touch. Let’s keep it simple, sharp, and super inspiring!
 
-## (2025.1, Scientifi Report) Evaluating the ability of large language models to emulate personality
+## (2024.10, Nature) Large language models can outperform humans in **social situational judgments**
+- Abstract: Large language models (LLM) have been a catalyst for the public interest in artificial intelligence (AI). These technologies perform some knowledge-based tasks better and faster than human beings. However, whether AIs can correctly assess social situations and devise socially appropriate behavior, is still unclear. We conducted an established Situational Judgment Test (SJT) with five different chatbots and compared their results with responses of human participants (N = 276). Claude, Copilot and you.com’s smart assistant performed significantly better than humans in proposing suitable behaviors in social situations. Moreover, their effectiveness rating of different behavior options aligned well with expert ratings. These results indicate that LLMs are capable of producing adept social judgments. While this constitutes an important requirement for the use as virtual social assistants, challenges and risks are still associated with their wide-spread use in social contexts.
+- Mittelstädt et al., 2024
+- https://www.nature.com/articles/s41598-024-79048-0#:~:text=The%20present%20study%20showed%20that,offer%20guidance%20in%20challenging%20situations.
+
+## (2025.1, Scientifi Report) Evaluating the ability of large language models to **emulate personality**
 - Wang, Y., Zhao, J., Ones, D. S., He, L., & Xu, X. (2025). Evaluating the ability of large language models to emulate personality. Scientific Reports, 15(1), 519.
 - https://www.nature.com/articles/s41598-024-84109-5
 - This research explores GPT-4's ability to role-play individuals with diverse personality traits, showing strong internal consistency and convergent validity in simulations, though performance declines with increased role complexity. Adding demographic information improved emulated traits' predictive validity, highlighting the potential for LLMs in simulating realistic human behaviors.
@@ -13,7 +18,7 @@
 - https://arxiv.org/abs/2501.04227
 - Agent Laboratory is an autonomous LLM-based framework that streamlines the research process by performing literature review, experimentation, and report writing, producing comprehensive outputs like code repositories and research reports. Evaluations show that it achieves state-of-the-art performance, reduces research costs by 84%, and benefits from human feedback at each stage, significantly improving research quality. This framework aims to shift researchers' focus from routine tasks to creative ideation, accelerating scientific discovery.
 
-## (2024.9.25, Nature) Larger and more instructable language models become less  🚀reliable 🚀
+## (2024.9.25, Nature) Larger and more instructable language models become less  **reliable **
 - Zhou, L., Schellaert, W., Martínez-Plumed, F., Moros-Daval, Y., Ferri, C., & Hernández-Orallo, J. (2024). Larger and more instructable language models become less reliable. Nature, 1-8.
 - PDF & publish: https://www.nature.com/articles/s41586-024-07930-y
 - GitHub: https://github.com/wschella/llm-reliability 
